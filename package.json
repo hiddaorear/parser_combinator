@@ -1,0 +1,9 @@
+{
+  "name": "parser_combinator",
+  "version": "1.0.0",
+  "description": "parser combinator",
+  "main": "index.js",
+  "repository": "git@github.com:hiddaorear/parser_combinator.git",
+  "author": "siegelwang <siegelwang@tencent.com>",
+  "license": "MIT"
+}
