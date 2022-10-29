@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:hiddaorear/parser_combinator.git",
   "author": "siegelwang <siegelwang@tencent.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^9.4.1",
+    "webpack": "^5.74.0"
+  }
 }
